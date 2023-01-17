@@ -1,2 +1,1 @@
-# Test
-<h2>My Name is...</h2>
+# git restore --staged <file>...
